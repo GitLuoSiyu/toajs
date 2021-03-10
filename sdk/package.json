@@ -1,0 +1,19 @@
+{
+  "name": "@mitojs/wx-mini",
+  "version": "2.0.0",
+  "description": "A SDK For Monitoring wx-mini Errors",
+  "author": "cjinhuo",
+  "license": "MIT",
+  "main": "dist/wx-mini.js",
+  "module": "dist/wx-mini.js",
+  "types": "dist/wx-mini.d.ts",
+  "files": [
+    "dist"
+  ],
+  "dependencies": {
+    "@mitojs/core": "2.0.0",
+    "@mitojs/utils": "2.0.0",
+    "@mitojs/shared": "2.0.0",
+    "@mitojs/types": "2.0.0"
+  }
+}
