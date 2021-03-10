@@ -1,0 +1,11 @@
+{
+  "name": "toa-sdk",
+  "version": "0.7.0",
+  "description": " ",
+  "author": "siyu.luo",
+  "license": "MIT",
+  "files": [
+    "dist"
+  ],
+  "dependencies": {}
+}
